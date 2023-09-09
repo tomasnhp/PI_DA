@@ -1,5 +1,5 @@
-#Proyecto de Análisis de Datos - Homicidios por Siniestros Viales en CABA (2016-2021)#
-##Descripción General##
+#Proyecto de Análisis de Datos - Homicidios por Siniestros Viales en CABA (2016-2021)
+##Descripción General
 Este repositorio contiene un proyecto de análisis de datos centrado en los homicidios causados por siniestros viales en la Ciudad Autónoma de Buenos Aires (CABA) durante el período comprendido entre 2016 y 2021.
 
 ###Contenido del Repositorio###
