@@ -9,6 +9,7 @@ Este repositorio contiene un proyecto de análisis de datos centrado en los homi
 - **homicidios.xlsx**: Aquí encontrarás los conjuntos de datos utilizados en el análisis.
 - **EDA**: Aquí se encuentra el archivo Jupyter Notebook que contiene el Análisis Exploratorio de Datos.
 - **dashboard**: Aquí se encuentra el archivo Power BI que contiene los dashboards realizados en Power BI.
+- **dashboard.pdf** Aquí se encuentran los dashboards en formato PDF
 
 ### Reporte de Análisis
 
